@@ -1,0 +1,13 @@
+body{
+    background-color:purple
+}
+
+#top{
+    background-color:grey;
+    padding:20px;
+}
+
+.intro{
+    color:red;
+    font-weight:bold;
+}
